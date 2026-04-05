@@ -57,13 +57,11 @@ Contributions are welcome! Feel free to:
 - Share your projects
 - Report issues
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+Prabik Raj Tripathi- [GitHub](https://github.com/WIZZZARS)
 
 ---
 
