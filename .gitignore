@@ -1,0 +1,29 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+dist/
+build/
+*.o
+*.a
+
+# Package manager
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
