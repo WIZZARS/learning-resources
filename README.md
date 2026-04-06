@@ -1,6 +1,9 @@
 # Learning & Development Resources
 
-A comprehensive collection of resources, notes, and snippets for continuous learning and professional development in software engineering.
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Updated](https://img.shields.io/badge/Updated-Recently-brightgreen.svg)
+
+My personal knowledge base and curated collection of resources, notes, and practical implementations as I continue to grow as a software engineer.
 
 ## 📚 Contents
 
@@ -19,17 +22,17 @@ A comprehensive collection of resources, notes, and snippets for continuous lear
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/learning-resources.git
+git clone https://github.com/WIZZARS/learning-resources.git
 cd learning-resources
 ```
 
 ## 📖 Topics Covered
 
-- Computer Science Fundamentals
-- Web Development
-- Software Engineering Best Practices
-- Problem Solving & Algorithms
-- Tools & Technologies
+- [Computer Science Fundamentals & Algorithms](./docs/01-data-structures-algorithms.md)
+- [Web Development](./docs/02-web-development.md)
+- [Software Engineering Best Practices](./docs/03-software-engineering.md)
+- [System Design & Architecture](./docs/04-system-design.md)
+- [Tools & Technologies](./docs/05-tools-technologies.md)
 
 ## 🛠️ Project Structure
 
@@ -61,7 +64,7 @@ Contributions are welcome! Feel free to:
 
 ## 👤 Author
 
-Prabik Raj Tripathi- [GitHub](https://github.com/WIZZZARS)
+Prabik Raj Tripathi - [GitHub](https://github.com/WIZZZARS)
 
 ---
 
