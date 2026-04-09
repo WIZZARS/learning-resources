@@ -64,7 +64,7 @@ Contributions are welcome! Feel free to:
 
 ## 👤 Author
 
-Prabik Raj Tripathi - [https://github.com/WIZZZARS]
+Prabik Raj Tripathi - [GitHub](https://github.com/WIZZZARS)
 
 ---
 
